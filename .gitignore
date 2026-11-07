@@ -3,3 +3,4 @@ tools/
 assets/_src/
 *.db
 .site_url
+.cache/
