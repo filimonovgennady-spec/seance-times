@@ -4,3 +4,5 @@ assets/_src/
 *.db
 .site_url
 .cache/
+issue.json
+.server.log
